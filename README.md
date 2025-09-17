@@ -1,4 +1,4 @@
-## Task-1_Chat-Application
+## Chat-Application (Techjays task 1)
 
 A Streamlit-based chat application powered by Google's Gemini (via `google-generativeai`) with optional private mode, persistent vector storage of chat history using ChromaDB, and utilities to clear and export conversations.
 
